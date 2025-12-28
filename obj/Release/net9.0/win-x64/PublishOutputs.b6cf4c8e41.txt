@@ -1,0 +1,2 @@
+D:\dev\PlayWWL\bin\Release\net9.0\win-x64\publish\PlayWWL.pdb
+D:\dev\PlayWWL\bin\Release\net9.0\win-x64\publish\PlayWWL.exe
